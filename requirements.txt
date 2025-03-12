@@ -2,5 +2,9 @@ streamlit
 pandas
 matplotlib
 seaborn
-pmdarima
+pmdarima==2.0.3
 statsmodels
+scikit-learn
+numpy
+scipy
+Cython
