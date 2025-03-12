@@ -2,9 +2,9 @@ streamlit
 pandas
 matplotlib
 seaborn
-pmdarima
 statsmodels
 scikit-learn
 numpy
 scipy
 Cython
+pmdarima==1.8.5
